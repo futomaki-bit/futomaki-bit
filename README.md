@@ -6,5 +6,5 @@
 🖤 Love Dark mode
 
 ### 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=c++,glsl,rust&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=c++,glsl,rust&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
