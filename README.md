@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🖥️ I'm mainly a Backend \
+🖥️ I'm a Backend Dev, but Frontend is cool too \
 💬 We can talk about Programming, Math and maybe... smartphones? \
 🧠 I’m learning [Flutter](https://flutter.dev/) \
 🖤 Love Dark mode
