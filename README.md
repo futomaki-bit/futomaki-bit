@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-🖥️ I'm a **Backend** Dev, but **Frontend** is cool too \
+🖥️ I'm a **Backend** Dev, but **Frontend** is cool too. \
 💬 We can talk about **Programming, Math** and maybe... **smartphones**? \
-🧠 I’m learning **[Flutter](https://flutter.dev/)** \
+🧠 I’m learning **[Flutter](https://flutter.dev/)**. \
 🖤 I love **Dark mode**. **Dark mode** on everything.
 
 ### 
