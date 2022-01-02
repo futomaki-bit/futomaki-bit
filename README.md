@@ -2,7 +2,7 @@
 
 🖥️ I'm a **Backend** Dev, but **Frontend** is cool too. \
 💬 We can talk about **Programming, Math** and maybe... **smartphones**? \
-🧠 I’m learning about **[Notion](https://www.notion.so/)**. \
+🧠 I’m learning about **[OBS](https://obsproject.com/)**. \
 🖤 I love **Dark mode**. **Dark mode** on everything.
 
 ### 
