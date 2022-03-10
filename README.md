@@ -2,9 +2,8 @@
 
 ## 👋 Hi there
 
-🖥️ I'm a **Backend** Dev, but **Frontend** is cool too. <br>
-💬 We can talk about **Programming, Math** and maybe other stuff too?<br>
-🧠 I’m learning about **[OBS](https://obsproject.com/)**.<br>
+🖥️ I'm a **Backend** Dev, but **Frontend** is fun. <br>
+🧠 I’m learning [**OBS**](https://obsproject.com/) and [**ProCreate**](https://procreate.art/).<br>
 
 ## 💻 Environment
 ![Windows 11](https://img.shields.io/badge/Windows%2011-0078d4?style=flat-square&logo=windows&logoColor=ffffff)
