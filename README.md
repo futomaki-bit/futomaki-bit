@@ -2,7 +2,6 @@
 
 ##  Hi there 👋
 
-🖥️ I'm a **Backend** Dev, but **Frontend** is fun too. <br>
 🧠 I’m learning [**OBS**](https://obsproject.com/) and [**ProCreate**](https://procreate.art/).<br>
 
 ##  Environment 💻
