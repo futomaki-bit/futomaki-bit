@@ -2,7 +2,7 @@
 
 ##  Hi there 👋
 
-🧠 I’m learning [**OBS**](https://obsproject.com/) and [**ProCreate**](https://procreate.art/).<br>
+🧠 I’m learning [**OBS**](https://obsproject.com/) and [**Procreate**](https://procreate.art/).<br>
 
 ##  Environment 💻
 ![Windows 11](https://img.shields.io/badge/Windows%2011-0078d4?style=flat-square&logo=windows&logoColor=ffffff)
