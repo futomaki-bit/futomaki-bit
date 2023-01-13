@@ -1,4 +1,5 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=futomaki-bit" />
+<!-- This widget seems to be down? -->
+<!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=futomaki-bit" /> -->
 
 ##  Hi there 👋
 
